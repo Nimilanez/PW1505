@@ -1,3 +1,23 @@
-table.tabela{
-    background-color: plum;
+body {
+    background-color: rgb(215, 215, 215)
+}
+
+/* index.php */
+
+
+.title {
+    font-size: 23px;
+    padding-top: 7px;
+    padding-left: 10px;
+    color: rgb(247, 243, 243);
+}
+
+b.custom-table-container {
+    background-color: #f57cc6;
+}
+
+
+.custom-table th,
+.custom-table td {
+    vertical-align: middle;
 }
